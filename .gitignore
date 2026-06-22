@@ -1,0 +1,9 @@
+# Secrets
+.env
+
+# Dependencies
+node_modules/
+dist/
+
+# OS Files
+.DS_Store

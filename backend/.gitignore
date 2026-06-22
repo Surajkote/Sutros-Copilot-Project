@@ -1,0 +1,8 @@
+# Ignore local environment variables
+.env
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore compiled Go binaries
+sovereign-copilot
