@@ -18,7 +18,7 @@ You will need to use your computer's "Terminal" (on Mac) or "Command Prompt" (on
 1.  Open the **Terminal** or **Command Prompt** app.
 2.  Copy and paste the following command, then press **Enter** to download the code:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/sovereign-copilot.git
+    git clone https://github.com/Surajkote/sovereign-copilot.git
     ```
     *(Note: Replace the URL above with the actual link to this repository).*
 3.  Next, tell your terminal to go inside the folder you just downloaded by typing:
