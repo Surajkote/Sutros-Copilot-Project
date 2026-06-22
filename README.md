@@ -2,10 +2,7 @@
 
 A high-privacy, local-first clinical copilot designed for secure medical document ingestion, processing, and real-time structured analysis. This system employs a dual hybrid database strategy and a split multi-agent routing architecture to ensure strict data isolation and zero-leakage compliance inside a self-contained local environment.
 
-### 🎥 Project Demonstration Video
-[!--- WATCH THE 2-MINUTE ARCHITECTURE WALKTHROUGH ---](YOUR_YOUTUBE_OR_LOOM_LINK_HERE)
 
----
 
 ## 🚀 Quick Start Guide (For Non-Technical Users)
 
